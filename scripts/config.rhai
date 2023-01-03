@@ -2,7 +2,7 @@ let titles_type = ["Survey"];
 let titles_model = ["former"];
 let titles_method = ["Self-Supervised", "molecular", "drugs", "molecule", "mole", "conformer"];
 let titles =  titles_model + titles_method + titles_type;
-let authors_array = ["Jian Tang", "Geoffrey Hinton", "Yoshua Bengio"];
+let authors_array = ["Jian Tang", "Geoffrey Hinton", "Yoshua Bengio", "Max Welling", "Yingce Xia", "Tie-Yan Liu"];
 
 let conferences = [
     // AI
