@@ -1,8 +1,8 @@
 let titles_type = ["Survey"];
 let titles_model = ["former"];
-let titles_method = ["Self-Supervised", "molecular", "drugs", "molecule", "mole", "conformer"];
+let titles_method = ["Self-Supervised", "molecular", "drugs", "molecule", "mole", "conformer", "optim"];
 let titles =  titles_model + titles_method + titles_type;
-let authors_array = ["Jian Tang", "Geoffrey Hinton", "Yoshua Bengio", "Max Welling", "Yingce Xia", "Tie-Yan Liu"];
+let authors_array = ["Jian Tang", "Max Welling", "Yingce Xia", "Tie-Yan Liu", "Shuxin Zheng", "Guolin Ke", "Di He", "Xiangxiang Zeng"];
 
 let conferences = [
     // AI
