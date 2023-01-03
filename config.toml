@@ -1,6 +1,6 @@
 site_title = "MyArxiv"
 limit_days = 7
-cache_url = "https://robbenplus.github.io/molarxiv/cache.json"
+cache_url = "https://robbenplus.github.io/MyArxiv/cache.json"
 
 [[sources]]
 limit = 150
