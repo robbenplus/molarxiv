@@ -3,7 +3,7 @@ limit_days = 7
 cache_url = "https://robbenplus.github.io/MyArxiv/cache.json"
 
 [[sources]]
-limit = 150
+limit = 300
 category = "cs.LG"
 title = "Machine Learning"
 
