@@ -1,16 +1,16 @@
 site_title = "DrugAI MolArxiv"
-limit_days = 7
+limit_days = 10
 cache_url = "https://robbenplus.github.io/MyArxiv/cache.json"
-
-[[sources]]
-limit = 300
-category = "cs.LG"
-title = "Machine Learning"
 
 [[sources]]
 limit = 150
 category = "cs.CL"
 title = "Computation and Language"
+
+[[sources]]
+limit = 300
+category = "cs.LG"
+title = "Machine Learning"
 
 [[sources]]
 limit = 150
