@@ -3,19 +3,10 @@ limit_days = 10
 cache_url = "https://robbenplus.github.io/MyArxiv/cache.json"
 
 [[sources]]
-limit = 150
-category = "cs.CL"
-title = "Computation and Language"
-
-[[sources]]
-limit = 300
+limit = 500
 category = "cs.LG"
 title = "Machine Learning"
 
-[[sources]]
-limit = 150
-category = "cs.CV"
-title = "Computer Vision and Pattern Recognition"
 
 [scripts]
 highlight_title = "scripts/highlight_title.rhai"
