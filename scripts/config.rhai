@@ -1,6 +1,6 @@
-let titles_type = ["Survey"];
-let titles_model = ["former"];
-let titles_method = ["protein", "Self-Supervised", "molecular", "drug", "molecule", "mole", "conformer", "molecular optim", "conformation", "equivarience", "equivariant", "SE-(3)", "SE(3)"];
+let titles_type = ["meiyou"];
+let titles_model = ["meiyou"];
+let titles_method = ["protein", "molecular", "drug", "molecule", "mole", "conformer", "molecular optim", "conformation", "equivarience", "equivariant", "SE-(3)", "SE(3)"];
 let titles =  titles_model + titles_method + titles_type;
 let authors_array = ["Jian Tang", "Max Welling", "Yingce Xia", "Tie-Yan Liu", "Shuxin Zheng", "Guolin Ke", "Di He", "Xiangxiang Zeng"];
 
@@ -14,7 +14,7 @@ let conferences = [
     // IR
     "ECIR", "ESWC", "ICMR", "ICTIR", "ISWC", "SIGIR",
     // ML
-    "ACML", "AISTATS", "ECML", "ICLR", "ICML", "ML4H", "NeurIPS", "NIPS", "UAI",
+    "ACML", "AISTATS", "ECML", "ICLR", "ICML", "ML4H", "NeurIPS", "NIPS", "UAI", "AAAI", "IJCAI",
     // NLP
     "AACL", "ACL", "CCL", "COLING", "COLT", "CoNLL", "EACL", "EMNLP", "ICASSP", "ICDAR", "ICONIP", "INTERSPEECH", "LREC", "NAACL", "NLPCC", "RepL4NLP", "SIGDIAL", "SemEval", "WANLP", "WASSA", "WOAH",
 ];
